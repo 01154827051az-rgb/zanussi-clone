@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-left: 490px; 
+}
+
+p {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    font-size: 18px;
+    list-style-type: none;
+}
+
+hr {
+    border: black solid 1px;
+    max-width: 500px;
+    margin-bottom: 5px;
+}
+
+div {
+    max-width: 500px;
+    width: 100%;
+    margin-left: 500px; 
+}
+
+#oo {
+    border: black solid 1px;
+}
+
+#lol {
+    font-size: 17px;
+    color: rgb(224, 102, 102);
+}
+
+#hahaha {
+    font-weight: bold;
+}
